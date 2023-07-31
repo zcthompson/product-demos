@@ -1,0 +1,45 @@
+download_url: https://console.redhat.com/api/automation-hub/v3/plugin/ansible/content/published/collections/artifacts/azure-azcollection-1.14.0.tar.gz
+format_version: 1.0.0
+name: azcollection
+namespace: azure
+server: https://console.redhat.com/api/automation-hub/content/published/
+signatures:
+- pubkey_fingerprint: 39B5D759361A97464C564A8FE1A4BD708A828AAD
+  pulp_created: '2022-10-31T17:22:08.977190Z'
+  signature: '-----BEGIN PGP SIGNATURE-----
+
+    Version: GnuPG v1
+
+
+    iQIVAwUAY2AEPeGkvXCKgoqtAQge2A//dEqdgnSyBsaEAVEantHPQWTSw1AVN8Ed
+
+    PC6Yx998FxOqSRRTFoFpZegS98ryQWY5RLXWut27cId/+lFP8Eb258IJJ9ZybMo0
+
+    yFfSfQfViyN8gpIflX2DgspsjsrCqqR4e9gekGqAMW0m59QazXgCTrbCjhWjAGZq
+
+    SvmWLc4NGTk9RqlPoigbVgrtMnNNAhp5nXb42n2uDD00Fi5yOGjGzXG5jMFbQvsv
+
+    /Rl/Ymlah4t0rGkuhu1CMcWERVQAAnNGhDJnMbuEHRSVT72CtgFKNHwZu1scPGJt
+
+    BdGduz762PmvDZ6I/viV7dM3xHJnjSK/b7+1w2Dyxw74Wy+CYhtkFPr7BxS/6qNb
+
+    q5ebe1RqWH+fxnAAfRbFpcnj8Nds/NvErm0TCgU17cxPcRit6A1clTNgIQS0tWAg
+
+    lzrIK0KQtwBmWCWx7HA/UmSkIM6z0HxRtWbXWOtYU21wW8n+IkCo0R+ToxGIbils
+
+    +Xo+3u0QFrTRDzKahwYBn5vp/t0TuTW1jTd62m/gaiHmCxx6A7HNfKcQtWbvQrfg
+
+    zxFKOBLRGFDzv+rIbAiIJmPgWQDqHLJAQnTxCHf77MqwQwworzr2a5iKrv+ST1aa
+
+    MPDTxNxmxHSo8Oeym+kpb4EPamkTSSjSaCzK5YEOI7EvYiAWtszpj9FhneIohQBy
+
+    OKeiq0IBg04=
+
+    =hXnv
+
+    -----END PGP SIGNATURE-----
+
+    '
+  signing_service: null
+version: 1.14.0
+version_url: /api/automation-hub/content/published/v3/plugin/ansible/content/published/collections/index/azure/azcollection/versions/1.14.0/

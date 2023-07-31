@@ -1,0 +1,45 @@
+download_url: https://console.redhat.com/api/automation-hub/v3/plugin/ansible/content/published/collections/artifacts/cisco-nxos-4.1.0.tar.gz
+format_version: 1.0.0
+name: nxos
+namespace: cisco
+server: https://console.redhat.com/api/automation-hub/content/published/
+signatures:
+- pubkey_fingerprint: 39B5D759361A97464C564A8FE1A4BD708A828AAD
+  pulp_created: '2023-02-16T15:42:36.381832Z'
+  signature: '-----BEGIN PGP SIGNATURE-----
+
+    Version: GnuPG v1
+
+
+    iQIVAwUAY+5O6eGkvXCKgoqtAQg3ZQ/+L13Ap21FucEYu171BrNZK5PUnAQNegdB
+
+    COe/xYpcOxbQrcw//shT1IGId490m/Hwz/yW8637ytKM2g/V01IoYtxbaW5VBqny
+
+    OQnvc/xNuZ0blgoOLciZdl0VQQMW2ZyIteImOrzWhqteDhB7sS25hMDjHsniceDE
+
+    rUk0jIFBTkswZUUcj6XxHdiuBM8X3tUqSJ1a816SbEWLf/tjwaW+0H3+eNjVPAqA
+
+    u0V5SFuNj/0ukYd0wBD0Iy3/UbeDEWo2wtJ9P+wsW/NagzK45rkuBKldIPMa+mlo
+
+    D2BTTcdnlcJ4uNDVVbpQDJ9PtkzUAKMvE+SyBDT3NxXT6lXdtQ6gc8DMpv5D30lh
+
+    f3Bq5QSGFT0RYtWDyaZG6Mo8L4ZySLzDDg/zxel+eASWdy3qaEd4mNVyxfcK/TmZ
+
+    yDH0uKDH/PAxbfJtWpDLtQEOTx22RsFzb6yIZkOzZ6M+NGWAkfENhCxEtPzfAN71
+
+    9ohCcC/SgH1eq6G41eiWsgAqXdndotqrxwR1c7DvL2t0tS4Uz1I8V80o3mnTMMRL
+
+    Ci49ZZZRlcSNgd4+vYCtlxRXJ5w1ioYRHC4ZIGYXSNRJcniKIGHi2fKSZ6Tiuq9a
+
+    0uVRrVXnH9NZN/NuFJZ4tqup0GnvOM9RjriXXM/q35i/AJI2f3HM6AnuMkvEIsZu
+
+    i4h/8xGpOss=
+
+    =gGTZ
+
+    -----END PGP SIGNATURE-----
+
+    '
+  signing_service: null
+version: 4.1.0
+version_url: /api/automation-hub/content/published/v3/plugin/ansible/content/published/collections/index/cisco/nxos/versions/4.1.0/

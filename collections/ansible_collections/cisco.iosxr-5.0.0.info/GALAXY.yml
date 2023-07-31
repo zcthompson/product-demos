@@ -1,0 +1,45 @@
+download_url: https://console.redhat.com/api/automation-hub/v3/plugin/ansible/content/published/collections/artifacts/cisco-iosxr-5.0.0.tar.gz
+format_version: 1.0.0
+name: iosxr
+namespace: cisco
+server: https://console.redhat.com/api/automation-hub/content/published/
+signatures:
+- pubkey_fingerprint: 39B5D759361A97464C564A8FE1A4BD708A828AAD
+  pulp_created: '2023-03-02T20:49:03.955078Z'
+  signature: '-----BEGIN PGP SIGNATURE-----
+
+    Version: GnuPG v1
+
+
+    iQIVAwUAZAELveGkvXCKgoqtAQgsQhAApUPMD7nohV0VpzkTyWDXiLzCpzy6koor
+
+    /qPe7O4abcD/IsC/td6QA13uAOC5Krc6yBtRdkwNZOgNbHldbVuY4pa0yllYmucd
+
+    Nu/Qq1QNh7ElkkAfol05sRcghGZwDjiom0FoEV6dLb3Hgf1Ds08pd8qg1da+B6Mj
+
+    YV4rIMh85BdsWnseg9xFC/HLHDa/6PSxiCQ20rgXzyVg6CL7b+K6Yh35v4MSvxRg
+
+    KWry2lRrZEyKDRLjr83bAuBgHvFSGLWiytNPoNq0CE6izusmbskrDSp4+9jcHWCI
+
+    y9gtGjuAwKBa9usOJ50QxzN9QoeMIOQnAKMCBZT7g9p7VWXbXmZbUNhrYSCRhnUW
+
+    OwQqimDKBhirtY/eVbgipxgybIDbvehLVYyYKrHgfnnrw0CgvXXp9X5+wzxRarhs
+
+    /Si7DbSWaeqrDiRNvMS3lObOyEjMmqZQgWuRTMY4vyy8H6W0u0BPb6ATbDtpgqgP
+
+    RAq+mUAgh/ZhtIl1G26fYY5IKer+XtFsQwQoZplfSxhcbUtVv7yMb4D9aWf/lcbf
+
+    iiiIFtvJDIeql13xWMuRHiGN7pC95XmSsCu4IM5zBCvDj8CVYi+qTaW8RiikjK7v
+
+    /R2powDSmcKmpSRHb914jyDsSORCHCopJ9PFXdzm9EkktOqFXP/v8wm3aJktT81y
+
+    a/uSKq0Hvhg=
+
+    =eOHw
+
+    -----END PGP SIGNATURE-----
+
+    '
+  signing_service: null
+version: 5.0.0
+version_url: /api/automation-hub/content/published/v3/plugin/ansible/content/published/collections/index/cisco/iosxr/versions/5.0.0/

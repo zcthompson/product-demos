@@ -1,0 +1,8 @@
+download_url: https://galaxy.ansible.com/download/redhat_cop-controller_configuration-2.2.5.tar.gz
+format_version: 1.0.0
+name: controller_configuration
+namespace: redhat_cop
+server: https://galaxy.ansible.com/api/
+signatures: []
+version: 2.2.5
+version_url: https://galaxy.ansible.com/api/v2/collections/redhat_cop/controller_configuration/versions/2.2.5/

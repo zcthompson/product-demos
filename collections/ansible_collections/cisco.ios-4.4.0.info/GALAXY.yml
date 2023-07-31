@@ -1,0 +1,45 @@
+download_url: https://console.redhat.com/api/automation-hub/v3/plugin/ansible/content/published/collections/artifacts/cisco-ios-4.4.0.tar.gz
+format_version: 1.0.0
+name: ios
+namespace: cisco
+server: https://console.redhat.com/api/automation-hub/content/published/
+signatures:
+- pubkey_fingerprint: 39B5D759361A97464C564A8FE1A4BD708A828AAD
+  pulp_created: '2023-03-01T16:26:39.453435Z'
+  signature: '-----BEGIN PGP SIGNATURE-----
+
+    Version: GnuPG v1
+
+
+    iQIVAwUAY/98veGkvXCKgoqtAQjeHw/8D+Uzi0iZ2mX8PGnFqpyk/iL2FeRqoEQ5
+
+    6KUKsRi02COzvJN17JZl6yAZDpDpi4R3NHpyRk1W7f0EQrKXi9GgxVARCqq8v42y
+
+    0EaC5bJZsbBzy+upvhAJO5JY6Fnh4l0zBHftRy0j2AdbaoRnSe9wC2Uc6Wanz/8F
+
+    nvtpnpwqrYDhQml5h5QX59vfFxh+r6rSdnWKpDjtAI68OgEFwRuz4gnYAE/ykiFy
+
+    b5ba0KG35eMWpwe2fu8//0wg+Sz6S6ugV7RNI58j1yJmLzJKcsy4t/PGnZA0KW0U
+
+    6IZiZagxNOrg9YWaEOlosJrareHyMqxank/7BM5AyvnKCaB4odaELPgbsJqNk7jH
+
+    w+5RPc1EC7AR865tx2ilrLSjDEIB3FM8NeTaOMcVaS4BtYkCl0sgtmntTQWGIrXP
+
+    KPg3VRRdbxWFNMXV2kykVQhh12R0jQrsxm+tRSU1BC3u/lsr0MUbCTtyzVxmxlOd
+
+    Y9gFgEL0n8pCFaujD8qJCsmrYG5AAfifk9jKfYPW46o0hDXaaJbywVhAVI5Bopb1
+
+    uvFa7mwMM/8kwn7sqzTfCce9bzm88FARTJhI1FautqPby13QQlFdSxWFQEeOhy15
+
+    tJje8y/oyTKl5DYZulvVt5ZyAUAxxQhX81Z8ZTRD8AmJjk4hy+EyzPOY8wioivM0
+
+    9bX3Eof4W4I=
+
+    =jIft
+
+    -----END PGP SIGNATURE-----
+
+    '
+  signing_service: null
+version: 4.4.0
+version_url: /api/automation-hub/content/published/v3/plugin/ansible/content/published/collections/index/cisco/ios/versions/4.4.0/

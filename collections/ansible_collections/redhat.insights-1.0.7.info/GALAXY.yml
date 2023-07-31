@@ -1,0 +1,45 @@
+download_url: https://console.redhat.com/api/automation-hub/v3/plugin/ansible/content/published/collections/artifacts/redhat-insights-1.0.7.tar.gz
+format_version: 1.0.0
+name: insights
+namespace: redhat
+server: https://console.redhat.com/api/automation-hub/content/published/
+signatures:
+- pubkey_fingerprint: 39B5D759361A97464C564A8FE1A4BD708A828AAD
+  pulp_created: '2022-09-23T22:34:41.327158Z'
+  signature: '-----BEGIN PGP SIGNATURE-----
+
+    Version: GnuPG v1
+
+
+    iQIVAwUAYy40fuGkvXCKgoqtAQghxQ//Ybt3B0z2jZ/QMNnKJ8Au7RQ8owG9JTA/
+
+    mOpRe7aRS67veP7ZUWJJBUQCdOnRLvq22775Oe8/LZxzNxuFyP3jFMztrpeg9y0z
+
+    nVV3dmRpR6M4wPNNCo7uIg3gCRoosIjn7jCNxK/ErhzPbMWab1+/2X16YAbUzfNI
+
+    LvOnAKulAZ5Pv3PkoGVaV8OBc4PoNLfYdi/TKlbB9PQoTN4XSprGQwKQYPLrAa9K
+
+    01kXwCcvpC0ayXFkWtp0dwncl6KzirHE+JzxtsewIITur/7CREgXm4yvMJOX6KAF
+
+    7hBQ4s9gOwvYIzAQCRT8QSKDyAccRy3PGJ71BF5PRemW3yfXQMOCMZfN9jNCbrMZ
+
+    y64dC1ZcN/YLH8uPnHiyJf8uqyz8YhluuhQ0VaoeMCYD5+H72epV31/ycluZCg+P
+
+    P/Ogv0Wi4BwsrnwraXVzvQWCnHw0I5D88lpxBPS7rkioBqBL/rYib1bY/WqCbJuf
+
+    Z7YTSLYKchQb6y2cpmyqBJyjnqQU9etQkUS5x5H0GuEwqldxO1jUk3X341LH+HjG
+
+    xwfTFwucnmmMjeAJvBZQI7htuDroxf6wGDbmUw1WFL43Q2vv1eEQaAQsCPJzFIiZ
+
+    +VF1/WC+vwUQ9rVLRsbODa0TUyq8+cjozjz9az5IBxg4JoxOYmkAt1Lta3LhO54N
+
+    A8ZBc4SafNI=
+
+    =g+kl
+
+    -----END PGP SIGNATURE-----
+
+    '
+  signing_service: null
+version: 1.0.7
+version_url: /api/automation-hub/content/published/v3/plugin/ansible/content/published/collections/index/redhat/insights/versions/1.0.7/

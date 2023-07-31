@@ -1,0 +1,45 @@
+download_url: https://console.redhat.com/api/automation-hub/v3/plugin/ansible/content/published/collections/artifacts/ansible-netcommon-5.0.0.tar.gz
+format_version: 1.0.0
+name: netcommon
+namespace: ansible
+server: https://console.redhat.com/api/automation-hub/content/published/
+signatures:
+- pubkey_fingerprint: 39B5D759361A97464C564A8FE1A4BD708A828AAD
+  pulp_created: '2023-03-01T16:43:23.730121Z'
+  signature: '-----BEGIN PGP SIGNATURE-----
+
+    Version: GnuPG v1
+
+
+    iQIVAwUAY/+AqeGkvXCKgoqtAQjg1g/+KxJZxca8kEtBiDioUMK4AIcdXK2e4fOA
+
+    FoQrKGF0CqzaOyLaKVDm3rCIim6FHKu0qTWCE7tetAve8mJAHQbga5TOAFA1BzOe
+
+    uy2QtsQJLlxD5R2IBXVYTPIWwstIyf3RyCXDXl0mvqrvNanHjUssH2eCX4jJuB0n
+
+    iUhlMvAhXdYM6+Y05315sLcyDRu3ZcMl5TmIYOplF8wJgWxhwPrwrPFidZP6h7xQ
+
+    +vISUH/f/rUCHxzjqhydWVlc20gqBqk3NiADWnp1X/mzAlGusM4aYfmDcyP275Mm
+
+    UGdMvWepwcn6WCRzKa0L5jufeoR+1SATX7gYw0bAtXbPvOyIzLSTwNw/MELhGoiD
+
+    TcpxWCHpIZkm95UlkApIOYlmGqE6o9f+z+nQzyqGcLkpi3MbBWGSeznunE1ZkekI
+
+    x3JjgU7OJ+Vi/JeBN2IQcdoXq47TJHM8mLCGrOVZAkIsMPAACFd9H/KsigNegsJe
+
+    9pCr2GNaOzCjFPc6PGKHbtGG8G2QaYlzIlbzyLK7S6hhBC9OGVJaKavvSuP2UA49
+
+    QJYzzj3fGszuPWFJmQm9BF7APkQ1y7C4YKlF/K0hZSwn9ceQzkw35jztvoljaBTq
+
+    DIaCBEsdEIfscEtvVkxsyib4fnKWkqwbj+P/hAp0FmWi7foJ1SV7hM0J0X4po86D
+
+    2/jySg7hPwQ=
+
+    =rulS
+
+    -----END PGP SIGNATURE-----
+
+    '
+  signing_service: null
+version: 5.0.0
+version_url: /api/automation-hub/content/published/v3/plugin/ansible/content/published/collections/index/ansible/netcommon/versions/5.0.0/
