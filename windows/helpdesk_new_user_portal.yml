@@ -16,7 +16,7 @@
         surname: "{{ surname }}"
         sam_account_name: "{{ firstname[0] }}{{ surname }}"
         company: BobCo
-        password: "{{ temp_password }}"
+        domain_password: "{{ temp_password }}"
         state: "{{ user_state }}"
         groups:
           - "GroupA"
