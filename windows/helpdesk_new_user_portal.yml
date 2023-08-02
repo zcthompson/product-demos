@@ -17,7 +17,7 @@
         sam_account_name: "{{ firstname[0] }}{{ surname }}"
         company: BobCo
         password: "{{ temp_password }}"
-        state: present
+        state: "{{ user_state | default('present') }}"
         groups:
           - "GroupA"
           - "GroupB"
